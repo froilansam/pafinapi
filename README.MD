@@ -21,13 +21,13 @@ To launch Pafin-API and witness its enchanting capabilities, follow these steps:
 1. **Clone the Repository:** Start by cloning this repository to your local realm using:
 
    ```
-   git clone https://github.com/your-username/pafin-api.git
+   git clone https://github.com/froilansam/pafinapi.git
    ```
 
 2. **Navigate to the Directory:** Traverse into the magical world of Pafin-API with:
 
    ```
-   cd pafin-api
+   cd pafinapi
    ```
 
 3. **Install Dependencies:** Unleash the power of Pafin's magic by installing the required spells using:
