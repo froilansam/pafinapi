@@ -48,14 +48,16 @@ To launch Pafin-API and witness its enchanting capabilities, follow these steps:
     });
    ```
 
-5. **Start the Potion Brewing:** Conjure the ultimate elixir of Pafin-API with:
+5. **Rename sample.env to .env:**
+
+6. **Start the Potion Brewing:** Conjure the ultimate elixir of Pafin-API with:
 
    ```
    npm start
 
    ```
 
-6. **Run Postman Files in Postman Client:**
+7. **Run Postman Files in Postman Client:**
    ```
    Import the collection and environment in the project to Postman to test the API.
    ```
